@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background-color: #553027;
+    color: white;
+    line-height: 1.6;
+}
+nav{
+    background: #e3d3cd;
+    color: #000080;
+    padding: 15px;
+    text-align: center;
+}
+nav a{
+    color: #d69c8c;
+    margin: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header{
+    background: no-repeat center center/cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000;
+}
+
+main section {
+    padding: 30px;         
+    margin: 20px auto;       
+    border: 2px solid #ccc;  
+    border-radius: 10px;      
+    max-width: 800px;         
+    text-align: center;       
+    background-color: #d69c8c; 
+}
+
+main a{
+    color: #553027;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#skills, #projects {
+    text-align: left;
+}
+
+h2{
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input, textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+textarea::placeholder {
+    color:#553027 ;
+} 
+
+button {
+    background-color: #553027;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
