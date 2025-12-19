@@ -129,28 +129,24 @@
   "athishaya.j": {
     "student": "athishaya.j",
     "file_structure": 7,
-    "semantic_html": 15,
-    "functionality": 3,
-    "design": 2,
+    "semantic_html": 20,
+    "functionality": 13,
+    "design": 4,
     "responsive": 4,
     "issues": [
       "\u274c Missing images/ folder",
-      "\u26a0\ufe0f No <article> tags for projects",
       "\u26a0\ufe0f Incomplete anchor navigation",
-      "\u274c No form or labels",
-      "\u26a0\ufe0f Limited input fields",
       "\u26a0\ufe0f No details/summary (collapsible sections)",
       "\u26a0\ufe0f Minimal color styling",
       "\u26a0\ufe0f No grid/flex layout",
       "\u26a0\ufe0f No hover effects",
-      "\u26a0\ufe0f Missing alt text on images",
       "\u274c No media queries - not responsive",
       "\u26a0\ufe0f May use fixed pixel widths"
     ],
-    "total": 31,
+    "total": 48,
     "grade": "F",
-    "last_updated": "2025-12-19 08:28 UTC",
-    "submission_count": 2
+    "last_updated": "2025-12-19 09:49 UTC",
+    "submission_count": 3
   },
   "Dihini": {
     "student": "Dihini",

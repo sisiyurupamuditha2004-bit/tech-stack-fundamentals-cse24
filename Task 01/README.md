@@ -2,7 +2,7 @@
 
 > *"Your portfolio is your first impression in the tech world!"* 💼
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-19%2008%3A28%20UTC-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-19%2009%3A49%20UTC-blue)
 ![Submissions](https://img.shields.io/badge/Submissions-12-green)
 
 ## 🎯 The Challenge
@@ -35,8 +35,8 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 | 6 | **Sayuru_Pilapitiya** | 65/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 08:28 UTC |
 | 7 | **vishwa** | 60/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 08:28 UTC |
 | 8 | **Binuka** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
-| 9 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
-| 10 | **athishaya.j** | 31/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
+| 9 | **athishaya.j** | 48/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 09:49 UTC |
+| 10 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
 | 11 | **suhas** | 18/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 08:28 UTC |
 | 12 | **Suhas_Dissa** | 6/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-18 19:28 UTC |
 
@@ -56,11 +56,11 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 
 ## 🚀 Recent Activity
 
+- **athishaya.j** updated their portfolio → 48/100 (2025-12-19 09:49 UTC)
 - **Induru_Adeesha** updated their portfolio → 87/100 (2025-12-19 08:28 UTC)
 - **Shaeshanth** updated their portfolio → 86/100 (2025-12-19 08:28 UTC)
 - **chamath** updated their portfolio → 78/100 (2025-12-19 08:28 UTC)
 - **Dihini** updated their portfolio → 73/100 (2025-12-19 08:28 UTC)
-- **portfolio-lahiru** updated their portfolio → 70/100 (2025-12-19 08:28 UTC)
 
 ---
 
